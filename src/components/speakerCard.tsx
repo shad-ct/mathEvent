@@ -1,4 +1,11 @@
-function speakerCard({ name, title, description, image }) {
+interface SpeakerCardProps {
+    name: string;
+    title: string;
+    description: string;
+    image: string;
+}
+
+function speakerCard({ name, title, description, image }: SpeakerCardProps) {
     return (
         <div className="relative rounded-2xl border border-purple-100/70 bg-gradient-to-br from-purple-50 via-white to-slate-50 shadow-sm hover:shadow-md transition-shadow overflow-hidden">
             <div className="aspect-[4/3] overflow-hidden bg-gradient-to-br from-purple-100/30 to-indigo-100/30">

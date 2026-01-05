@@ -1,5 +1,3 @@
-import React from 'react'
-
 function Register() {
     return (
         <div className="min-h-[70vh] rounded-lg bg-gradient-to-br from-purple-50 via-white to-slate-50">
