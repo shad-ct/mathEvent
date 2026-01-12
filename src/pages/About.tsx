@@ -12,7 +12,7 @@ function About() {
                     </p>
                     <h1 className="text-2xl sm:text-3xl font-bold text-purple-900 md:text-4xl">About the Event</h1>
                     <p className="mx-auto max-w-2xl text-sm sm:text-base text-gray-700">
-                        A focused workshop and seminar on graphs, algorithms, and emerging applications, hosted by the Department of Mathematical Sciences, Kannur University.
+                        A focused workshop and conference on graphs, algorithms, and emerging applications, hosted by the Department of Mathematical Sciences, Kannur University.
                     </p>
                 </div>
 
@@ -27,10 +27,10 @@ function About() {
                         </div>
                         <div className="space-y-3 sm:space-y-4 text-sm sm:text-base text-gray-700 leading-relaxed">
                             <p>
-                                The proposed two-day workshop on graphs and algorithms is being organized as a prelude to the National Seminar on Recent Developments in Theory and Algorithms of Graphs. It aims to provide participants—research scholars, postgraduate students, and young faculty members—with a solid foundation in the fundamental concepts and techniques of graph theory and algorithms.
+                                The proposed two-day workshop on graphs and algorithms is being organized as a prelude to the National conference on Recent Developments in Theory and Algorithms of Graphs. It aims to provide participants—research scholars, postgraduate students, and young faculty members—with a solid foundation in the fundamental concepts and techniques of graph theory and algorithms.
                             </p>
                             <p>
-                                Because the seminar will focus on recent research trends and advanced developments, participants are encouraged to first build clarity on basic principles and standard methodologies. The workshop will bridge introductory knowledge with advanced discussions, helping attendees engage meaningfully with the technical sessions and research presentations that follow.
+                                Because the conference will focus on recent research trends and advanced developments, participants are encouraged to first build clarity on basic principles and standard methodologies. The workshop will bridge introductory knowledge with advanced discussions, helping attendees engage meaningfully with the technical sessions and research presentations that follow.
                             </p>
                             <p>
                                 While several workshops on general graph theory have been held elsewhere, focused workshops on graph algorithms are relatively rare. This makes the event especially significant for those interested in algorithmic perspectives of graphs.
@@ -50,7 +50,7 @@ function About() {
                         </div>
                         <div className="space-y-3 sm:space-y-4 text-sm sm:text-base text-gray-700 leading-relaxed">
                             <p>
-                                The seminar brings together researchers, academicians, and students to discuss recent advancements in graph theory and graph algorithms, with emphasis on new theoretical results, computational approaches, and emerging interdisciplinary applications.
+                                The conference brings together researchers, academicians, and students to discuss recent advancements in graph theory and graph algorithms, with emphasis on new theoretical results, computational approaches, and emerging interdisciplinary applications.
                             </p>
                             <p>
                                 Topics include, but are not limited to, spectral graph theory, graph colouring, network optimization, algorithmic graph theory, graph neural networks, and parameterized and approximation algorithms. The program also explores how probabilistic, parallel, and distributed computing paradigms are reshaping the design and analysis of graph algorithms.

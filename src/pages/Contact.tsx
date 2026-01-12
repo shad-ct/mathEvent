@@ -52,8 +52,8 @@ function Contact() {
                                 <h2 className="text-xl sm:text-2xl font-bold text-purple-900 mb-3 sm:mb-4">Email</h2>
                             </div>
                         </div>
-                        <a 
-                            href="mailto:seminarkucmaths@gmail.com" 
+                        <a
+                            href="mailto:seminarkucmaths@gmail.com"
                             className="text-sm sm:text-base lg:text-lg text-purple-700 hover:text-purple-900 font-medium transition-colors underline decoration-purple-400 decoration-2 underline-offset-4 break-all"
                         >
                             seminarkucmaths@gmail.com
